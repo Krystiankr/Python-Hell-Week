@@ -1,0 +1,8 @@
+kwadrat,3
+trojkat,2,5
+trapez,10,20,3
+kolo,10
+kolo,15
+kwadrat,6
+blad, 0
+prostokat, 10, 20
